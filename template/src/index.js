@@ -1,1 +1,0 @@
-export default "create by mz-cli"

@@ -1,5 +1,5 @@
-.idea
 .DS_Store
 .history
-npm-error.log
+*.log
 node_modules
+.idea
